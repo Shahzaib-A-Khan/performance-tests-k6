@@ -17,7 +17,7 @@ k6 performance tests for Grafana's public QuickPizza demo app, run locally and i
 
 ## Results
 | Where it ran | Test | p(95) home | p(95) quotes | Failed requests |
-| --- | --- | --- | --- | --- |
+
 | My computer (mobile hotspot) | api-test.js | 31.24 ms | 31.66 ms | 0.00% |
 | GitHub Actions | api-test.js | 68.06 ms | 68.32 ms | 0.00% |
 
